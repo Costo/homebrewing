@@ -15,5 +15,5 @@ FWH: 0.28oz / 8g
 15m: 0.28oz / 8g  
 0m: 0.28oz / 8g  
 
-Yeast: Lager yeast
+Yeast: WLP-802 Lager yeast
 
