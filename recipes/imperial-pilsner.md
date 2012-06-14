@@ -6,12 +6,12 @@ Batch size: 1 Gal
 Grains:
 2.75lbs / 1.250kg of Pilsner malt
 
-Hops: Sterling 1.34oz / 38g  
-FWH: 7.6g  
-60m: 7.6g  
-30m: 7.6g  
-15m: 7.6g  
-0m: 7.6g  
+Hops: Sterling 1.4oz / 40g  
+FWH: 0.28oz / 8g  
+60m: 0.28oz / 8g  
+30m: 0.28oz / 8g  
+15m: 0.28oz / 8g  
+0m: 0.28oz / 8g  
 
 Yeast: Lager yeast
 
