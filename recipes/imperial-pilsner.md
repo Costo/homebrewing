@@ -4,7 +4,7 @@ Imperial Pilsner
 Batch size: 1 Gal
 
 Grains:
-2.4lbs / 1.090kg of Pilsner malt
+2.75lbs / 1.250kg of Pilsner malt
 
 Hops: Sterling 1.34oz / 38g  
 FWH: 7.6g  
