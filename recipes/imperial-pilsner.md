@@ -1,7 +1,9 @@
 Imperial Pilsner
 ================
 
-Batch size: 1 Gal
+Batch size: 1 Gal  
+Mash time: 60m  
+Boil time: 75m  
 
 Grains:
 2.75lbs / 1.250kg of Pilsner malt
