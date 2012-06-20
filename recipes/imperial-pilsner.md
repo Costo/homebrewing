@@ -6,7 +6,7 @@ Mash time: 60m
 Boil time: 75m  
 
 Grains:
-2.6lbs / 1.180kg of Pilsner malt
+2.6lbs / 1.180kg of Pilsner malt  
 0.15lbs / 68g of Munich malt
 
 Hops: Sterling 1.4oz / 40g  
