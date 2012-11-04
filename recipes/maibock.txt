@@ -1,0 +1,49 @@
+
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Maibock
+Brewer: 
+Asst Brewer: 
+Style: Mailbock/Helles Bock
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.38 l
+Post Boil Volume: 4.34 l
+Batch Size (fermenter): 3.79 l   
+Bottling Volume: 3.41 l
+Estimated OG: 1.134 SG
+Estimated Color: 20.7 EBC
+Estimated IBU: 32.1 IBUs
+Brewhouse Efficiency: 100.00 %
+Est Mash Efficiency: 110.0 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+0.75 kg               Pilsner (2 Row) Ger (3.9 EBC)            Grain         1        45.5 %        
+0.60 kg               Munich Malt (17.7 EBC)                   Grain         2        36.4 %        
+0.20 kg               Vienna Malt (6.9 EBC)                    Grain         3        12.1 %        
+0.10 kg               Caramel/Crystal Malt - 10L (19.7 EBC)    Grain         4        6.1 %         
+10.00 g               Hallertauer [5.20 %] - Boil 60.0 min     Hop           5        22.6 IBUs     
+7.00 g                Hallertauer [5.20 %] - Boil 20.0 min     Hop           6        9.6 IBUs      
+0.5 pkg               Munich Lager (Wyeast Labs #2308) [124.21 Yeast         7        -             
+
+
+Mash Schedule: Temperature Mash, 2 Step, Medium Body
+Total Grain Weight: 1.65 kg
+----------------------------
+Name                       Description                             Step Temperat Step Time     
+Protein Rest               Add 4.30 l of water at 54.1 C           50.0 C        30 min        
+Saccharification           Heat to 66.7 C over 15 min              66.7 C        45 min        
+Mash Out                   Heat to 75.6 C over 10 min              75.6 C        10 min        
+
+Sparge: Fly sparge with 4.68 l water at 75.6 C
+Notes:
+------
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------

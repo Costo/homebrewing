@@ -1,0 +1,50 @@
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Milk Stout Eggnog
+Brewer: Choop & Costo
+Asst Brewer: 
+Style: Sweet Stout
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: -5.07 l
+Post Boil Volume: -5.91 l
+Batch Size (fermenter): 3.79 l   
+Bottling Volume: 2.28 l
+Estimated OG: 1.065 SG
+Estimated Color: 73.4 EBC
+Estimated IBU: 33.5 IBUs
+Brewhouse Efficiency: 72.00 %
+Est Mash Efficiency: 0.0 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+0.70 kg               Pale Malt (2 Row) UK (5.9 EBC)           Grain         1        58.4 %        
+0.36 kg               Caramel/Crystal Malt - 80L (157.6 EBC)   Grain         2        30.3 %        
+0.09 kg               Roasted Barley (591.0 EBC)               Grain         3        7.6 %         
+0.05 kg               Chocolate Malt (689.5 EBC)               Grain         4        3.8 %         
+5.70 g                Northern Brewer [8.50 %] - Boil 60.0 min Hop           5        18.8 IBUs     
+5.70 g                Northern Brewer [8.50 %] - Boil 30.0 min Hop           6        14.5 IBUs     
+2.83 g                Fuggles [4.50 %] - Boil 1.0 min          Hop           7        0.2 IBUs      
+0.20 lb               Lactic Acid (Boil 0.0 mins)              Water Agent   8        -             
+1.0 pkg               Belgian Ale (White Labs #WLP550) [35.49  Yeast         9        -             
+
+
+Mash Schedule: Temperature Mash, 2 Step, Full Body
+Total Grain Weight: 1.20 kg
+----------------------------
+Name                       Description                             Step Temperat Step Time     
+Protein Rest               Add 3.22 l of water at 53.9 C           50.0 C        30 min        
+Saccharification           Heat to 68.9 C over 15 min              68.9 C        30 min        
+Mash Out                   Heat to 75.6 C over 10 min              75.6 C        10 min        
+
+Sparge: Fly sparge with -7.09 l water at 75.6 C
+Notes:
+------
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------

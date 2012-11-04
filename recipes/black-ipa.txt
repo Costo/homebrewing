@@ -1,0 +1,53 @@
+
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Black IPA
+Brewer: choop
+Asst Brewer: 
+Style: Black IPA
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 7.40 l
+Post Boil Volume: 4.33 l
+Batch Size (fermenter): 3.79 l   
+Bottling Volume: 3.41 l
+Estimated OG: 1.081 SG
+Estimated Color: 89.3 EBC
+Estimated IBU: 88.9 IBUs
+Brewhouse Efficiency: 72.00 %
+Est Mash Efficiency: 79.2 %
+Boil Time: 90 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+0.91 kg               Pale Malt, Maris Otter (5.9 EBC)         Grain         1        63.5 %        
+0.18 kg               Pale Malt (2 Row) US (3.9 EBC)           Grain         2        12.7 %        
+0.14 kg               Special B Malt (354.6 EBC)               Grain         3        9.5 %         
+0.11 kg               Chocolate Malt (689.5 EBC)               Grain         4        7.9 %         
+0.09 kg               Caramunich Malt (110.3 EBC)              Grain         5        6.3 %         
+2.83 g                Centennial [11.10 %] - Boil 90.0 min     Hop           6        21.2 IBUs     
+2.83 g                Columbus (Tomahawk) [14.00 %] - Boil 90. Hop           7        26.8 IBUs     
+1.42 g                Columbus (Tomahawk) [14.00 %] - Boil 80. Hop           8        13.2 IBUs     
+1.42 g                Columbus (Tomahawk) [14.00 %] - Boil 50. Hop           9        11.9 IBUs     
+1.42 g                Centennial [10.00 %] - Boil 30.0 min     Hop           10       6.9 IBUs      
+2.83 g                Centennial [10.00 %] - Boil 15.0 min     Hop           11       8.9 IBUs      
+2.83 g                Columbus (Tomahawk) [14.00 %] - Boil 0.0 Hop           12       0.0 IBUs      
+5.67 g                Amarillo Gold [8.50 %] - Dry Hop 15.0 Da Hop           13       0.0 IBUs      
+
+
+Mash Schedule: Single Infusion, Light Body, No Mash Out
+Total Grain Weight: 1.43 kg
+----------------------------
+Name                       Description                             Step Temperat Step Time     
+Mash In                    Add 3.73 l of water at 80.4 C           71.1 C        75 min        
+
+Sparge: Fly sparge with 6.05 l water at 75.6 C
+Notes:
+------
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------

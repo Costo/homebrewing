@@ -1,0 +1,50 @@
+
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: English Barley Wine
+Brewer: choop
+Asst Brewer: 
+Style: English Barleywine
+TYPE: Partial Mash
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.37 l
+Post Boil Volume: 4.33 l
+Batch Size (fermenter): 3.79 l   
+Bottling Volume: 3.41 l
+Estimated OG: 1.114 SG
+Estimated Color: 42.3 EBC
+Estimated IBU: 62.9 IBUs
+Brewhouse Efficiency: 72.00 %
+Est Mash Efficiency: 104.3 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+0.34 kg               Pale Malt, Maris Otter (5.9 EBC)         Grain         1        22.2 %        
+0.04 kg               Caramel/Crystal Malt - 10L (19.7 EBC)    Grain         2        2.6 %         
+0.04 kg               Special B Malt (354.6 EBC)               Grain         3        2.6 %         
+0.01 kg               Chocolate Malt (689.5 EBC)               Grain         4        0.9 %         
+1.07 kg               Pale Liquid Extract (15.8 EBC)           Extract       5        68.7 %        
+0.05 kg               Brown Sugar, Dark (98.5 EBC)             Sugar         6        2.9 %         
+5.67 g                Millenium [14.25 %] - Boil 60.0 min      Hop           7        39.3 IBUs     
+5.67 g                Northern Brewer [8.50 %] - Boil 30.0 min Hop           8        18.0 IBUs     
+5.67 g                Goldings, East Kent [5.00 %] - Boil 10.0 Hop           9        5.0 IBUs      
+5.67 g                Styrian Goldings [5.40 %] - Boil 1.0 min Hop           10       0.6 IBUs      
+
+
+Mash Schedule: Single Infusion, Light Body, No Mash Out
+Total Grain Weight: 1.55 kg
+----------------------------
+Name                       Description                             Step Temperat Step Time     
+Mash In                    Add 1.15 l of water at 73.8 C           65.6 C        75 min        
+
+Sparge: Fly sparge with 6.61 l water at 75.6 C
+Notes:
+------
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
