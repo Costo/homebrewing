@@ -1,53 +1,51 @@
-
-BeerSmith 2 Recipe Printout - http://www.beersmith.com
-Recipe: Belgium IPA
-Brewer: choop & vincent
-Asst Brewer: 
+Recipe: Belgium IPA	TYPE: All Grain
 Style: American IPA
-TYPE: All Grain
-Taste: (30.0) 
+---RECIPE SPECIFICATIONS-----------------------------------------------
+SRM: 26.7 EBC		SRM RANGE: 11.8-29.6 EBC
+IBU: 72.7 IBUs Tinseth	IBU RANGE: 40.0-70.0 IBUs
+OG: 1.058 SG		OG RANGE: 1.056-1.075 SG
+FG: 1.006 SG		FG RANGE: 1.010-1.018 SG
+BU:GU: 1.251		Calories: 427.1 kcal/l	Est ABV: 6.8 %		
+EE%: 72.00 %	Batch: 3.79 l      Boil: 6.38 l	BT: 60 Mins
 
-Recipe Specifications
---------------------------
-Boil Size: 6.38 l
-Post Boil Volume: 4.34 l
-Batch Size (fermenter): 3.79 l   
-Bottling Volume: 3.41 l
-Estimated OG: 1.061 SG
-Estimated Color: 27.1 EBC
-Estimated IBU: 58.1 IBUs
-Brewhouse Efficiency: 72.00 %
-Est Mash Efficiency: 79.2 %
-Boil Time: 60 Minutes
+---WATER CHEMISTRY ADDITIONS----------------
 
-Ingredients:
-------------
+
+Total Grain Weight: 1.02 kg	Total Hops: 32.00 g oz.
+---MASH/STEEP PROCESS------MASH PH:5.40 ------
+>>>>>>>>>>-ADD WATER CHEMICALS BEFORE GRAINS!!<<<<<<<
 Amt                   Name                                     Type          #        %/IBU         
-0.90 kg               Pilsner (2 Row) Bel (3.9 EBC)            Grain         1        84.1 %        
-0.08 kg               Caramel/Crystal Malt - 20L (39.4 EBC)    Grain         2        7.5 %         
-0.05 kg               Special B Malt (354.6 EBC)               Grain         3        4.7 %         
-0.04 kg               Munich Malt (17.7 EBC)                   Grain         4        3.7 %         
-5.00 g                Columbus (Tomahawk) [14.00 %] - Boil 60. Hop           5        46.5 IBUs     
-3.50 g                Citra [12.00 %] - Boil 5.0 min           Hop           6        5.6 IBUs      
-3.50 g                Simcoe [13.00 %] - Boil 5.0 min          Hop           7        6.0 IBUs      
-6.00 g                Citra [12.00 %] - Boil 0.0 min           Hop           8        0.0 IBUs      
-6.00 g                Simcoe [13.00 %] - Boil 0.0 min          Hop           9        0.0 IBUs      
-1.0 pkg               Belgian Ale (White Labs #WLP550) [35.49  Yeast         10       -             
-4.00 g                Nelson Sauvin [12.00 %] - Dry Hop 7.0 Da Hop           11       0.0 IBUs      
+0.86 kg               Pilsner (2 Row) Bel (3.9 EBC)            Grain         1        84.3 %        
+0.07 kg               Caramel/Crystal Malt - 20L (39.4 EBC)    Grain         2        6.9 %         
+0.05 kg               Special B Malt (354.6 EBC)               Grain         3        4.9 %         
+0.04 kg               Munich Malt (17.7 EBC)                   Grain         4        3.9 %         
 
 
-Mash Schedule: Temperature Mash, 2 Step, Medium Body
-Total Grain Weight: 1.07 kg
-----------------------------
 Name                       Description                             Step Temperat Step Time     
-Protein Rest               Add 2.79 l of water at 54.1 C           50.0 C        30 min        
-Saccharification           Heat to 66.7 C over 15 min              66.7 C        45 min        
+Protein Rest               Add 2.66 l of water at 54.1 C           50.0 C        30 min        
+Saccharification           Heat to 64.4 C over 15 min              64.4 C        75 min        
 Mash Out                   Heat to 75.6 C over 10 min              75.6 C        10 min        
 
-Sparge: Fly sparge with 5.61 l water at 75.6 C
-Notes:
-------
+---SPARGE PROCESS---
+>>>>>>>>>>-RECYCLE FIRST RUNNINGS & VERIFY GRAIN/MLT TEMPS: 22.2 C/22.2 C
+>>>>>>>>>>-ADD BOIL CHEMICALS BEFORE FWH
+Fly sparge with 5.69 l water at 75.6 C
 
+---BOIL PROCESS-----------------------------
+Est Pre_Boil Gravity: 1.038 SG	Est OG: 1.058 SG
+Amt                   Name                                     Type          #        %/IBU         
+5.00 g                Columbus (Tomahawk) [14.00 %] - Boil 60. Hop           5        47.3 IBUs     
+2.50 g                Citra [12.00 %] - Boil 10.0 min          Hop           6        7.3 IBUs      
+2.50 g                Simcoe [13.00 %] - Boil 10.0 min         Hop           7        8.0 IBUs      
+3.00 g                Citra [12.00 %] - Boil 5.0 min           Hop           8        4.8 IBUs      
+3.00 g                Simcoe [13.00 %] - Boil 5.0 min          Hop           9        5.3 IBUs      
+6.00 g                Citra [12.00 %] - Boil 0.0 min           Hop           10       0.0 IBUs      
+6.00 g                Simcoe [13.00 %] - Boil 0.0 min          Hop           11       0.0 IBUs      
 
-Created with BeerSmith 2 - http://www.beersmith.com
--------------------------------------------------------------------------------------
+---FERM PROCESS-----------------------------
+Primary Start: 2012-11-17 - 4.00 Days at 19.4 C
+Secondary Start: 2012-11-21 - 10.00 Days at 19.4 C
+Style Carb Range: 2.20-2.70 Vols
+Bottling Date: 2012-12-01 with 2.3 Volumes CO2: 
+---NOTES------------------------------------
+
