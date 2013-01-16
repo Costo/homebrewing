@@ -9,7 +9,7 @@ Grains:
 2.6lbs / 1.180kg of Pilsner malt  
 0.15lbs / 68g of Munich malt
 
-Hops: Sterling 1.4oz / 40g  
+Hops: Saaz 1.4oz / 40g  
 FWH: 0.18oz / 5g  
 60m: 0.21oz / 6g  
 30m: 0.28oz / 8g  
