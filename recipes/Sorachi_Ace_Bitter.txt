@@ -1,0 +1,44 @@
+Recipe: Sorachi Ace Bitter	TYPE: All Grain
+Style: American Amber Ale
+---RECIPE SPECIFICATIONS-----------------------------------------------
+SRM: 29.3 EBC		SRM RANGE: 21.7-35.5 EBC
+IBU: 33.5 IBUs Tinseth	IBU RANGE: 20.0-40.0 IBUs
+OG: 1.053 SG		OG RANGE: 1.045-1.056 SG
+FG: 1.011 SG		FG RANGE: 1.010-1.015 SG
+BU:GU: 0.638		Calories: 427.1 kcal/l	Est ABV: 5.4 %		
+EE%: 72.00 %	Batch: 3.79 l      Boil: 6.38 l	BT: 60 Mins
+
+---WATER CHEMISTRY ADDITIONS----------------
+
+
+Total Grain Weight: 0.93 kg	Total Hops: 15.76 g oz.
+---MASH/STEEP PROCESS------MASH PH:5.40 ------
+>>>>>>>>>>-ADD WATER CHEMICALS BEFORE GRAINS!!<<<<<<<
+Amt                   Name                                     Type          #        %/IBU         
+0.79 kg               Pilsner (2 Row) Bel (3.9 EBC)            Grain         1        84.9 %        
+0.07 kg               Cara-Pils/Dextrine (3.9 EBC)             Grain         2        7.5 %         
+0.07 kg               Special B Malt (354.6 EBC)               Grain         3        7.5 %         
+
+
+Name                       Description                      Step Temperature Step Time     
+Mash In                    Add 2.43 l of water at 73.8 C    65.6 C           75 min        
+
+---SPARGE PROCESS---
+>>>>>>>>>>-RECYCLE FIRST RUNNINGS & VERIFY GRAIN/MLT TEMPS: 22.2 C/22.2 C
+>>>>>>>>>>-ADD BOIL CHEMICALS BEFORE FWH
+Fly sparge with 5.83 l water at 75.6 C
+
+---BOIL PROCESS-----------------------------
+Est Pre_Boil Gravity: 1.034 SG	Est OG: 1.053 SG
+Amt                   Name                                     Type          #        %/IBU         
+3.64 g                Sorachi Ace [10.06 %] - Boil 60.0 min    Hop           4        25.6 IBUs     
+3.12 g                Sorachi Ace [10.06 %] - Boil 10.0 min    Hop           5        7.9 IBUs      
+3.00 g                Sorachi Ace [12.00 %] - Boil 0.0 min     Hop           6        0.0 IBUs      
+
+---FERM PROCESS-----------------------------
+Primary Start: 15/01/2013 - 4.00 Days at 19.4 C
+Secondary Start: 19/01/2013 - 10.00 Days at 19.4 C
+Style Carb Range: 2.30-2.80 Vols
+Bottling Date: 29/01/2013 with 2.3 Volumes CO2: 
+---NOTES------------------------------------
+
