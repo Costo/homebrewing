@@ -13,9 +13,9 @@ Boil Size: 6.90 l
 Post Boil Volume: 4.06 l
 Batch Size (fermenter): 3.80 l   
 Bottling Volume: 3.50 l
-Estimated OG: 1.060 SG
-Estimated Color: 83.5 EBC
-Estimated IBU: 34.7 IBUs
+Estimated OG: 1.062 SG
+Estimated Color: 70.6 EBC
+Estimated IBU: 34.3 IBUs
 Brewhouse Efficiency: 65.00 %
 Est Mash Efficiency: 66.7 %
 Boil Time: 60 Minutes
@@ -23,23 +23,23 @@ Boil Time: 60 Minutes
 Ingredients:
 ------------
 Amt                   Name                                     Type          #        %/IBU         
-0.90 kg               Pale Malt, Maris Otter (5.9 EBC)         Grain         1        78.3 %        
-0.06 kg               Black (Patent) Malt (985.0 EBC)          Grain         2        5.2 %         
-0.06 kg               Munich Malt (17.7 EBC)                   Grain         3        5.2 %         
-0.04 kg               Caramel/Crystal Malt - 10L (19.7 EBC)    Grain         4        3.9 %         
-0.04 kg               Chocolate Malt (689.5 EBC)               Grain         5        3.9 %         
-0.04 kg               Roasted Barley (591.0 EBC)               Grain         6        3.5 %         
-3.00 g                Northern Brewer [8.50 %] - Boil 60.0 min Hop           7        19.1 IBUs     
-3.00 g                Northern Brewer [8.50 %] - Boil 30.0 min Hop           8        14.7 IBUs     
+0.95 kg               Pale Malt, Maris Otter (5.9 EBC)         Grain         1        80.5 %        
+0.06 kg               Munich Malt (17.7 EBC)                   Grain         2        5.1 %         
+0.04 kg               Caramel/Crystal Malt - 10L (19.7 EBC)    Grain         3        3.8 %         
+0.04 kg               Chocolate Malt (689.5 EBC)               Grain         4        3.8 %         
+0.04 kg               Carafa II (811.6 EBC)                    Grain         5        3.4 %         
+0.04 kg               Roasted Barley (591.0 EBC)               Grain         6        3.4 %         
+3.00 g                Northern Brewer [8.50 %] - Boil 60.0 min Hop           7        18.9 IBUs     
+3.00 g                Northern Brewer [8.50 %] - Boil 30.0 min Hop           8        14.5 IBUs     
 3.00 g                Northern Brewer [8.50 %] - Boil 1.0 min  Hop           9        0.8 IBUs      
 1.0 pkg               SafAle English Ale (DCL/Fermentis #S-04) Yeast         10       -             
 
 
 Mash Schedule: BIAB, Full Body
-Total Grain Weight: 1.15 kg
+Total Grain Weight: 1.18 kg
 ----------------------------
 Name              Description                             Step Temperat Step Time     
-Saccharification  Add 7.90 l of water at 71.9 C           68.9 C        60 min        
+Saccharification  Add 7.92 l of water at 71.9 C           68.9 C        60 min        
 Mash Out          Heat to 75.6 C over 7 min               75.6 C        10 min        
 
 Sparge: Remove grains, and prepare to boil wort

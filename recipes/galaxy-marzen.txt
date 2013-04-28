@@ -1,0 +1,49 @@
+﻿
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Galaxy Marzen
+Brewer: 
+Asst Brewer: 
+Style: Oktoberfest/Märzen
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.20 l
+Post Boil Volume: 4.16 l
+Batch Size (fermenter): 3.80 l   
+Bottling Volume: 3.30 l
+Estimated OG: 1.054 SG
+Estimated Color: 21.6 EBC
+Estimated IBU: 24.6 IBUs
+Brewhouse Efficiency: 72.00 %
+Est Mash Efficiency: 75.8 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+0.35 kg               Munich Malt (17.7 EBC)                   Grain         1        37.5 %        
+0.35 kg               Pilsner (2 Row) Ger (3.9 EBC)            Grain         2        37.5 %        
+0.10 kg               Vienna Malt (6.9 EBC)                    Grain         3        10.7 %        
+0.08 kg               Caramunich Malt (110.3 EBC)              Grain         4        8.6 %         
+0.05 kg               Carafoam (3.9 EBC)                       Grain         5        5.8 %         
+1.50 g                Galaxy [14.00 %] - Boil 60.0 min         Hop           6        15.2 IBUs     
+1.20 g                Galaxy [14.00 %] - Boil 30.0 min         Hop           7        9.4 IBUs      
+1.00 g                Galaxy [14.00 %] - Boil 0.0 min          Hop           8        0.0 IBUs      
+1.0 pkg               Octoberfest/Marzen Lager (White Labs #WL Yeast         9        -             
+
+
+Mash Schedule: Single Infusion, Light Body, No Mash Out
+Total Grain Weight: 0.93 kg
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Mash In           Add 2.44 l of water at 73.8 C           65.6 C        75 min        
+
+Sparge: Fly sparge with 4.90 l water at 75.6 C
+Notes:
+------
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
