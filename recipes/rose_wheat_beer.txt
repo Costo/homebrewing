@@ -1,0 +1,51 @@
+﻿
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Rose Wheat Beer
+Brewer: 
+Asst Brewer: 
+Style: Weizen/Weissbier
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 6.01 l
+Post Boil Volume: 4.21 l
+Batch Size (fermenter): 3.79 l   
+Bottling Volume: 3.41 l
+Estimated OG: 1.052 SG
+Estimated Color: 7.7 SRM
+Estimated IBU: 16.2 IBUs
+Brewhouse Efficiency: 72.00 %
+Est Mash Efficiency: 77.0 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+0.35 kg               White Wheat Malt (2.4 SRM)               Grain         1        40.9 %        
+0.33 kg               Pale Malt, Maris Otter (3.0 SRM)         Grain         2        38.6 %        
+0.08 kg               Vienna Malt (3.5 SRM)                    Grain         3        9.4 %         
+0.05 kg               Caravienne Malt (22.0 SRM)               Grain         4        5.8 %         
+0.05 kg               Caramel Wheat Malt (46.0 SRM)            Grain         5        5.3 %         
+3.00 g                Tettnang [4.50 %] - Boil 60.0 min        Hop           6        9.7 IBUs      
+2.00 g                Tettnang [4.50 %] - Boil 30.0 min        Hop           7        5.0 IBUs      
+1.00 g                Tettnang [4.50 %] - Boil 15.0 min        Hop           8        1.6 IBUs      
+0.05 tsp              Irish Moss (Boil 10.0 mins)              Fining        9        -             
+0.2 pkg               Safale American  (DCL/Fermentis #US-05)  Yeast         10       -             
+
+
+Mash Schedule: Temperature Mash, 1 Step, Full Body
+Total Grain Weight: 0.86 kg
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Saccharification  Add 2.23 l of water at 75.7 C           68.9 C        40 min        
+Mash Out          Heat to 75.6 C over 10 min              75.6 C        10 min        
+
+Sparge: Fly sparge with 4.64 l water at 75.6 C
+Notes:
+------
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
