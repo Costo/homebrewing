@@ -10,7 +10,7 @@ Recipe Specifications
 --------------------------
 Boil Size: 25.83 l
 Post Boil Volume: 23.79 l
-Batch Size (fermenter): 20.00 l   
+Batch Size (fermenter): 20.00 l   
 Bottling Volume: 18.49 l
 Estimated OG: 1.079 SG
 Estimated Color: 9.1 EBC
@@ -21,22 +21,22 @@ Boil Time: 60 Minutes
 
 Ingredients:
 ------------
-Amt                   Name                                     Type          #        %/IBU         
-6.00 kg               Pilsner (2 Row) Ger (3.9 EBC)            Grain         1        85.1 %        
-0.50 kg               Wheat, Flaked (3.2 EBC)                  Grain         2        7.1 %         
-0.40 kg               Vienna Malt (6.9 EBC)                    Grain         3        5.7 %         
-0.15 kg               Candi Sugar, Clear (1.0 EBC)             Sugar         4        2.1 %         
-50.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           5        18.5 IBUs     
-30.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           6        8.5 IBUs      
-20.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           7        0.0 IBUs      
-1.0 pkg               Belgian Tripel (Mangrove Jack's #M31)    Yeast         8        -             
+Amt                   Name                                     Type          #        %/IBU         
+6.00 kg               Pilsner (2 Row) Ger (3.9 EBC)            Grain         1        85.1 %        
+0.50 kg               Wheat, Flaked (3.2 EBC)                  Grain         2        7.1 %         
+0.40 kg               Vienna Malt (6.9 EBC)                    Grain         3        5.7 %         
+0.15 kg               Candi Sugar, Clear (1.0 EBC)             Sugar         4        2.1 %         
+50.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           5        18.5 IBUs     
+30.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           6        8.5 IBUs      
+20.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           7        0.0 IBUs      
+1.0 pkg               Belgian Tripel (Mangrove Jack's #M31)    Yeast         8        -             
 
 
 Mash Schedule: Single Infusion, Light Body, No Mash Out
 Total Grain Weight: 7.05 kg
 ----------------------------
-Name              Description                             Step Temperat Step Time     
-Mash In           Add 17.99 l of water at 72.6 C          64.4 C        75 min        
+Name              Description                             Step Temperat Step Time     
+Mash In           Add 17.99 l of water at 72.6 C          64.4 C        75 min        
 
 Sparge: Fly sparge with 15.70 l water at 75.6 C
 Notes:
