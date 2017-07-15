@@ -1,44 +1,46 @@
 BeerSmith 2 Recipe Printout - http://www.beersmith.com
-Recipe: Buteuse like
+Recipe: Calva Dubbel
 Brewer: 
 Asst Brewer: 
-Style: Belgian Tripel
+Style: Belgian Dubbel
 TYPE: All Grain
 Taste: (30.0) 
 
 Recipe Specifications
 --------------------------
-Boil Size: 25.83 l
-Post Boil Volume: 23.79 l
-Batch Size (fermenter): 20.00 l   
-Bottling Volume: 18.49 l
-Estimated OG: 1.079 SG
-Estimated Color: 9.1 EBC
-Estimated IBU: 27.1 IBUs
+Boil Size: 24.72 l
+Post Boil Volume: 22.67 l
+Batch Size (fermenter): 18.93 l   
+Bottling Volume: 17.41 l
+Estimated OG: 1.066 SG
+Estimated Color: 38.6 EBC
+Estimated IBU: 18.6 IBUs
 Brewhouse Efficiency: 72.00 %
-Est Mash Efficiency: 82.2 %
+Est Mash Efficiency: 82.8 %
 Boil Time: 60 Minutes
 
 Ingredients:
 ------------
 Amt                   Name                                     Type          #        %/IBU         
-6.00 kg               Pilsner (2 Row) Ger (3.9 EBC)            Grain         1        85.1 %        
-0.50 kg               Wheat, Flaked (3.2 EBC)                  Grain         2        7.1 %         
-0.40 kg               Vienna Malt (6.9 EBC)                    Grain         3        5.7 %         
-0.15 kg               Candi Sugar, Clear (1.0 EBC)             Sugar         4        2.1 %         
-50.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           5        18.5 IBUs     
-30.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           6        8.5 IBUs      
-20.00 g               Hallertauer Hersbrucker [4.00 %] - Boil  Hop           7        0.0 IBUs      
-1.0 pkg               Belgian Tripel (Mangrove Jack's #M31)    Yeast         8        -             
+3.90 kg               Pilsner (2 Row) Ger (3.9 EBC)            Grain         1        69.6 %        
+0.57 kg               Vienna Malt (6.9 EBC)                    Grain         2        10.2 %        
+0.45 kg               Special B Malt (354.6 EBC)               Grain         3        8.0 %         
+0.34 kg               Caramel/Crystal Malt - 60L (118.2 EBC)   Grain         4        6.1 %         
+0.34 kg               Candi Sugar, Clear (1.0 EBC)             Sugar         5        6.1 %         
+15.00 g               Styrian Goldings [5.40 %] - Boil 60.0 mi Hop           6        8.7 IBUs      
+15.00 g               Styrian Goldings [5.40 %] - Boil 30.0 mi Hop           7        6.7 IBUs      
+15.00 g               Styrian Goldings [5.40 %] - Boil 10.0 mi Hop           8        3.2 IBUs      
+15.00 g               Styrian Goldings [5.40 %] - Boil 0.0 min Hop           9        0.0 IBUs      
+1.0 pkg               Belgian Abbey (Mangrove Jack's #M47)     Yeast         10       -             
 
 
 Mash Schedule: Single Infusion, Light Body, No Mash Out
-Total Grain Weight: 7.05 kg
+Total Grain Weight: 5.60 kg
 ----------------------------
 Name              Description                             Step Temperat Step Time     
-Mash In           Add 17.99 l of water at 72.6 C          64.4 C        75 min        
+Mash In           Add 13.72 l of water at 70.6 C          64.4 C        75 min        
 
-Sparge: Fly sparge with 15.70 l water at 75.6 C
+Sparge: Fly sparge with 17.21 l water at 75.6 C
 Notes:
 ------
 
