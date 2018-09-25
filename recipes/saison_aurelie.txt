@@ -1,0 +1,61 @@
+
+BeerSmith 2 Recipe Printout - http://www.beersmith.com
+Recipe: Saison Aurélie
+Brewer: Vincent
+Asst Brewer: Aurélie
+Style: Saison
+TYPE: All Grain
+Taste: (30.0) 
+
+Recipe Specifications
+--------------------------
+Boil Size: 11.59 l
+Post Boil Volume: 8.75 l
+Batch Size (fermenter): 7.60 l   
+Bottling Volume: 6.77 l
+Estimated OG: 1.055 SG
+Estimated Color: 17.9 EBC
+Estimated IBU: 23.7 IBUs
+Brewhouse Efficiency: 65.00 %
+Est Mash Efficiency: 71.8 %
+Boil Time: 60 Minutes
+
+Ingredients:
+------------
+Amt                   Name                                     Type          #        %/IBU         
+1.36 kg               Pilsner (2 Row) Bel (3.9 EBC)            Grain         1        64.5 %        
+0.40 kg               Wheat Malt, Ger (3.9 EBC)                Grain         2        19.0 %        
+0.35 kg               Caramel/Crystal Malt - 30L (59.1 EBC)    Grain         3        16.6 %        
+20.00 g               Hallertau [3.60 %] - Boil 60.0 min       Hop           4        23.7 IBUs     
+8.00 g                Hallertau [3.60 %] - Boil 0.0 min        Hop           5        0.0 IBUs      
+0.5 pkg               Belle Saison (Lallemand/Danstar #-)      Yeast         6        -             
+
+
+Mash Schedule: BIAB, Medium Body
+Total Grain Weight: 2.11 kg
+----------------------------
+Name              Description                             Step Temperat Step Time     
+Saccharification  Add 11.78 l of water at 70.2 C          66.7 C        75 min        
+Mash Out          Heat to 75.6 C over 7 min               75.6 C        10 min        
+
+Sparge: If steeping, remove grains, and prepare to boil wort
+Notes:
+------
+Heated to 66C anc then cut heat. Mash in at 69C
+Applied heat for 1.5mn after ~30mn to help maintain the mash temperature at 66C
+Applied heat fo 2mn after 50mn
+It was probably a mistake to apply heat without stirring, the water at the bottom of the pot was very hot (around 80C)
+Added 1.1L to kettle before boil
+Sustained boil with heat at 9
+It took a long time to chill the beer because tap water was at ~20C. Wort chilled to ~25C.
+Rehydrated Belle Saison yeast before pitching
+ 
+OG: 1.057
+Trub Loss: 0.8L
+Fermenter volume: ~2Gal
+
+
+
+
+Created with BeerSmith 2 - http://www.beersmith.com
+-------------------------------------------------------------------------------------
